@@ -1,0 +1,6 @@
+# Mock guide package
+
+## Generated mock components
+src/mocks/generated/
+.next/
+node_modules/
